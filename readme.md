@@ -2,7 +2,7 @@ Download the .dll:
 ===
 
 * Get the latest php_imagick.dll from here **https://mlocati.github.io/articles/php-windows-imagick.html**
-* Make sure that the extensions are compatible with *default version of PHP and are VC9 and non-thread-safe (nts) compatible*.
+* Make sure that the extensions are compatible with ***default version of PHP and are VC9 and non-thread-safe (nts) compatible***.
 * Unzip the folder and Copy all CORE_RL_* files to d:\home\site\ImageMagick\
 * Copy php_imagick.dll to d:\home\site\ext\ 
 * Create new applicationHost.xdt file inside the d:\home\site folder and copy the below configuration
