@@ -30,7 +30,7 @@ Application Settings:
 * Add an App Setting with the name 'MAGICK_HOME' and set the value to 'd:\home\site\ImageMagick'
 * Add an App Setting with the name 'PHP_EXTENSIONS' and set the value to 'd:\home\site\ext\php_imagick.dll'
 
-Restart the Web App and check the phpinfo page. It should return a imagick module section.
+**Restart the Web App and check the phpinfo page. It should return a imagick module section.**
 	
 
 	
