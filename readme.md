@@ -1,7 +1,7 @@
 Installing the php_imagick extension on Windows Azure Web App
 ===
 
-Download the .dll:
+Download the .dll
 ---
 
 * Get the latest php_imagick.dll from here **https://mlocati.github.io/articles/php-windows-imagick.html**
@@ -26,7 +26,7 @@ Download the .dll:
 
 * Also, attached the applicationHost.xdt in this repro
 
-Application Settings:
+Application Settings
 ---
 
 * Add an App Setting with the name `MAGICK_CODER_MODULE_PATH` and set value to `d:\home\site\ImageMagick`
