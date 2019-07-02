@@ -35,5 +35,7 @@ Application Settings:
 
 **Restart the Web App and check the phpinfo page. It should return a imagick module section.**
 	
-
+Refrence
+---
+**https://blogs.msdn.microsoft.com/azureossds/2015/12/07/php-imagemagick-on-azure-web-apps/**
 	
