@@ -24,7 +24,7 @@ Download the .dll:
 ```
 
 
-Also, attached the applicationHost.xdt in this repro
+* Also, attached the applicationHost.xdt in this repro
 
 Application Settings:
 ---
